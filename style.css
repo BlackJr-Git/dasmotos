@@ -1,0 +1,43 @@
+*{
+    font-family:Helvetica, sans-serif;
+    
+    
+}
+
+h1{
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2{
+    font-size: 32px;
+    color: white;
+}
+
+header{
+    background-image: url('images/pattern.webp');
+}
+
+.product1 {
+    background-color: mediumspringgreen;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.product2 {
+    background-color: lightcoral;
+}
+
+.product3 {
+    background-color: skyblue;
+}
+
+a{
+    font-weight: bold;
+    color: blue;
+    text-decoration: none;    
+}
